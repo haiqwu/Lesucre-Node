@@ -1,6 +1,6 @@
 node_modules
-.env
+#.env
 .DS_Store
-config/firebase-adminsdk-service-account-key.json
+#config/firebase-adminsdk-service-account-key.json
 logs
 
